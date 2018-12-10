@@ -8,7 +8,7 @@ while true
 do
         #Print the instructions
         echo ""
-        echo -e "\e[41m\e[30m------------------------------- Files Browser and apps browser ---------------------$
+        echo -e "\e[41m\e[30m------------------------ Files Browser and apps browser ------------------------\e[0m\e[0m"
         echo ""
         echo "To cancel the program press ctrl + C"
         echo "Remeber to use *, ? or . to represent characters. Example: network*"
