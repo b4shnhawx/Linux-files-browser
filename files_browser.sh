@@ -1,12 +1,11 @@
-
 #!/bin/bash
+
+#Clear the terminal 
+clear
 
 #The script is always running
 while true
 do
-        #Clear the terminal
-        clear
-
         #Print the instructions
         echo ""
         echo -e "\e[41m\e[30m------------------------------- Files Browser and apps browser ---------------------$
