@@ -7,6 +7,9 @@ First, type what file yo want to search. Don't forget you can use wildcards * to
 Second, specifiy the absolute path you want to search. If you doubt the location you can always look for it in the root.
 
 ### Example
+```sh
+bash files_browser.sh
+```
 <p align="center">
   <img width="770" height="363" src="https://github.com/davidahid/Linux-files-browser/blob/master/example.png">
 </p>
