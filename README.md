@@ -11,5 +11,5 @@ Second, specifiy the absolute path you want to search. If you doubt the location
 bash files_browser.sh
 ```
 <p align="center">
-  <img width="770" height="363" src="https://github.com/davidahid/Linux-files-browser/blob/master/example.png">
+  <img width="770" height="363" src="https://github.com/davidahid/Linux-files-browser/blob/master/images/example.png">
 </p>
